@@ -18,7 +18,7 @@
 //   $NG_PY[a]    - Y position in the world
 //   $NG_PZ[a]    - Z position in the world
 //   $NG_D[a, b]  - Euclidean distance (vectorDist) between this node's
-//                - position and b's position, b being any valid neighbor
+//                  position and b's position, b being any valid neighbor
 //
 // Returns 0 on failure.
 //
